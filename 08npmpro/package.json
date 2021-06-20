@@ -1,0 +1,20 @@
+{
+  "name": "08npmpro",
+  "version": "1.0.0",
+  "description": "node package management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Leo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "mockjs": "^1.1.0"
+  }
+}
